@@ -1,0 +1,103 @@
+{C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Invertesinal.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\Invertesinal.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity invertSign
+-- Compiling architecture behavioral of invertSign
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Subtrator.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Subtrator.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullSubtractor4bits
+-- Compiling architecture behavioral of fullSubtractor4bits
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Dobro.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\Dobro.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dobro
+-- Compiling architecture behavioral of dobro
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/count_display.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\count_display.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity count_display
+-- Compiling architecture structural of count_display
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/7seg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\7seg.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity hex7seg
+-- Compiling architecture behavioral of hex7seg
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/ULA.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\ULA.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ula
+-- Compiling architecture behavioral of ula
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/FullAdder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\FullAdder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder1bit
+-- Compiling architecture behavioral of fullAdder1bit
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Incremento1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\Incremento1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity increment
+-- Compiling architecture behavioral of increment
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/counter_seconds.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\counter_seconds.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_seconds
+-- Compiling architecture behavioral of counter_seconds
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Comparador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\Comparador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comparador
+-- Compiling architecture behavioral of comparador
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/FullAdder4bits.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\FullAdder4bits.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder
+-- Compiling architecture behavioral of fullAdder
+
+} {} {}} {C:/Users/anton/OneDrive/Documents/6_Vini/Vini/Sistemas Digitais/Contador.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\anton\OneDrive\Documents\6_Vini\Vini\Sistemas Digitais\Contador.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity contador
+-- Compiling architecture Behavioral of contador
+
+} {} {}}
